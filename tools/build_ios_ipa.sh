@@ -41,7 +41,7 @@ if [[ "$minimum" != 15.0 || ! -f "$app/$project_name.pck" ]]; then
     printf 'The app must target iOS 15.0 and contain its game pack.\n' >&2
     exit 1
 fi
-xcrun lipo -verify_arch arm64 "$app/$executable"
+xcrun lipo "$app/$executable" -verify_arch arm64
 
 mkdir "$work_dir/Payload"
 ditto "$app" "$work_dir/Payload/$project_name.app"
