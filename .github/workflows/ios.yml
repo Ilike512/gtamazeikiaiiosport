@@ -31,6 +31,9 @@ jobs:
           bash tools/stage_ios_audio.sh
           mkdir -p "$RUNNER_TEMP/ios-export"
           "$GODOT" --headless --editor --import
+          # Godot requires a nonempty team field even for project-only export.
+          # Xcode builds with signing disabled, so this placeholder is never used to sign.
+          sed -i '' 's/application\/app_store_team_id=""/application\/app_store_team_id="UNSIGNED00"/' export_presets.cfg
           "$GODOT" --headless --export-release 'iOS 15' "$RUNNER_TEMP/ios-export/GTA_MAZEIKIAI.ipa"
           bash tools/build_ios_ipa.sh "$RUNNER_TEMP/ios-export" "$RUNNER_TEMP/GTA_MAZEIKIAI.ipa"
       - uses: actions/upload-artifact@v4
@@ -39,3 +42,4 @@ jobs:
           path: ${{ runner.temp }}/GTA_MAZEIKIAI.ipa
           if-no-files-found: error
           compression-level: 0
+
