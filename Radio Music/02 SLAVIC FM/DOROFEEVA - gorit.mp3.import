@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dmhio2m46450u"
+path="res://.godot/imported/DOROFEEVA - gorit.mp3-c07d2ad8cb3911a5a3088521a65dc6a6.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/DOROFEEVA - gorit.mp3"
+dest_files=["res://.godot/imported/DOROFEEVA - gorit.mp3-c07d2ad8cb3911a5a3088521a65dc6a6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

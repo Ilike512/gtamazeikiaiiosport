@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdg8s0ybibeoo"
+path="res://.godot/imported/Oliver Tree, Little Big, Tommy Cash - The Internet.mp3-e317354ca94c4a2eb28219ec657ca70d.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Oliver Tree, Little Big, Tommy Cash - The Internet.mp3"
+dest_files=["res://.godot/imported/Oliver Tree, Little Big, Tommy Cash - The Internet.mp3-e317354ca94c4a2eb28219ec657ca70d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

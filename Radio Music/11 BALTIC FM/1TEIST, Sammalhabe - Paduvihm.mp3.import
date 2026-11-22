@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b2ruisrfs672"
+path="res://.godot/imported/1TEIST, Sammalhabe - Paduvihm.mp3-1841fc8962964dc55481cf69391a9601.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/1TEIST, Sammalhabe - Paduvihm.mp3"
+dest_files=["res://.godot/imported/1TEIST, Sammalhabe - Paduvihm.mp3-1841fc8962964dc55481cf69391a9601.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

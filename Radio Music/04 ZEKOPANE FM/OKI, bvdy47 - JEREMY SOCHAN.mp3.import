@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c6fu44egjnt5y"
+path="res://.godot/imported/OKI, bvdy47 - JEREMY SOCHAN.mp3-cc0b6e0b1b23b2939881f5138f5778d3.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/OKI, bvdy47 - JEREMY SOCHAN.mp3"
+dest_files=["res://.godot/imported/OKI, bvdy47 - JEREMY SOCHAN.mp3-cc0b6e0b1b23b2939881f5138f5778d3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

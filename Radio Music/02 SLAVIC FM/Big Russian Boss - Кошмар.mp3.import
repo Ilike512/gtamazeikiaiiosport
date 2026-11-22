@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c1u0wm6yvmtxj"
+path="res://.godot/imported/Big Russian Boss - Кошмар.mp3-d3ada2e30d17a81ff8a6903eee9b8c55.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Big Russian Boss - Кошмар.mp3"
+dest_files=["res://.godot/imported/Big Russian Boss - Кошмар.mp3-d3ada2e30d17a81ff8a6903eee9b8c55.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

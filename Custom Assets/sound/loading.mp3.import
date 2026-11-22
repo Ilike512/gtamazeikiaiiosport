@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://vdggbjotprk"
+path="res://.godot/imported/loading.mp3-be1773275c8c9b0ebdcd75b1bfbb5bfb.mp3str"
+
+[deps]
+
+source_file="res://Custom Assets/sound/loading.mp3"
+dest_files=["res://.godot/imported/loading.mp3-be1773275c8c9b0ebdcd75b1bfbb5bfb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://blxfbw1riyuah"
+path="res://.godot/imported/Furytto, Proflame - Žmonės žmonės.mp3-da62af72bd39434563d1402a584cf322.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Furytto, Proflame - Žmonės žmonės.mp3"
+dest_files=["res://.godot/imported/Furytto, Proflame - Žmonės žmonės.mp3-da62af72bd39434563d1402a584cf322.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ust4wj1op8jw"
+path="res://.godot/imported/Mad Money - Cukrus & Mielės.mp3-6346b184cc878667400e9a40e3b13c54.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Mad Money - Cukrus & Mielės.mp3"
+dest_files=["res://.godot/imported/Mad Money - Cukrus & Mielės.mp3-6346b184cc878667400e9a40e3b13c54.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

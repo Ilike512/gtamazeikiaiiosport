@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c212m4h0eip1m"
+path="res://.godot/imported/Mad Money, Mir - Tik rytoj.mp3-6e736e929d6508568dc2347cab98cd2a.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Mad Money, Mir - Tik rytoj.mp3"
+dest_files=["res://.godot/imported/Mad Money, Mir - Tik rytoj.mp3-6e736e929d6508568dc2347cab98cd2a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

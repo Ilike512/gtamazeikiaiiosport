@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/vehicles/BasicCar.gd" id="1"]
+
+[node name="BasicCar" type="RigidBody3D"]
+script = ExtResource("1")
+
+[node name="ChassisCollision" type="CollisionShape3D" parent="."]
+position = Vector3(0, 0.085, 0)
+
+[node name="Visuals" type="Node3D" parent="."]
+
+[node name="Suspension" type="Node3D" parent="."]
+
+[node name="FrontLeft" type="Marker3D" parent="Suspension"]
+position = Vector3(-0.805, 0.055, -1.31)
+
+[node name="FrontRight" type="Marker3D" parent="Suspension"]
+position = Vector3(0.805, 0.055, -1.31)
+
+[node name="RearLeft" type="Marker3D" parent="Suspension"]
+position = Vector3(-0.805, 0.055, 1.28)
+
+[node name="RearRight" type="Marker3D" parent="Suspension"]
+position = Vector3(0.805, 0.055, 1.28)

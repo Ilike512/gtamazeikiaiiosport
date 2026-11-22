@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dn0j4i386eqos"
+path="res://.godot/imported/OG Version, Proflame - YES.mp3-d58cc1463fd8ec73fcf2844a32054e3d.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/OG Version, Proflame - YES.mp3"
+dest_files=["res://.godot/imported/OG Version, Proflame - YES.mp3-d58cc1463fd8ec73fcf2844a32054e3d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

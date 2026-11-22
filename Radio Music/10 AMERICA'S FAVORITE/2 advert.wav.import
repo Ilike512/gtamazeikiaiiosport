@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cqfao7skq6y8f"
+path="res://.godot/imported/2 advert.wav-81b8eeeaa9a5099e32ba1ab5870fbd88.sample"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/2 advert.wav"
+dest_files=["res://.godot/imported/2 advert.wav-81b8eeeaa9a5099e32ba1ab5870fbd88.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d1ejadp437wn7"
+path="res://.godot/imported/Despotin Fam - Noriu Rėkt!.mp3-be4aed308fc2f7d27c7a77ea86ba722d.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/01 MAŽEIKIAI FM/Despotin Fam - Noriu Rėkt!.mp3"
+dest_files=["res://.godot/imported/Despotin Fam - Noriu Rėkt!.mp3-be4aed308fc2f7d27c7a77ea86ba722d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

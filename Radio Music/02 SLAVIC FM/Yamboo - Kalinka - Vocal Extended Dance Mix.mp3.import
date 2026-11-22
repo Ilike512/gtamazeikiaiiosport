@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b48anbrghhy2p"
+path="res://.godot/imported/Yamboo - Kalinka - Vocal Extended Dance Mix.mp3-60968c75162e862156e55c617034cd82.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Yamboo - Kalinka - Vocal Extended Dance Mix.mp3"
+dest_files=["res://.godot/imported/Yamboo - Kalinka - Vocal Extended Dance Mix.mp3-60968c75162e862156e55c617034cd82.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,58 @@
+[
+  {
+    "image": "res://assets/loading_art/purple_street.png",
+    "location": "",
+    "detail": "",
+    "fit": "contain"
+  },
+  {
+    "image": "res://assets/loading_art/purple_church.png",
+    "location": "",
+    "detail": "",
+    "fit": "contain"
+  },
+  {
+    "image": "res://assets/loading_art/pink_stickmin.png",
+    "location": "",
+    "detail": "",
+    "fit": "contain"
+  },
+  {
+    "image": "res://assets/loading_art/mazeikiai_crew.png",
+    "location": "",
+    "detail": "",
+    "fit": "contain"
+  },
+  {
+    "image": "res://assets/loading_art/mjjh.png",
+    "location": "",
+    "detail": "",
+    "fit": "contain"
+  },
+  {
+    "image": "res://assets/loading_art/blitdhf.jpg",
+    "location": "",
+    "detail": "",
+    "fit": "contain"
+  },
+  {
+    "image": "res://assets/loading_art/mazeikiai.png",
+    "location": "MAŽEIKIAI",
+    "detail": "LITHUANIA / TOWN CENTRE"
+  },
+  {
+    "image": "res://assets/loading_art/naikiu.png",
+    "location": "NAIKIŲ g.",
+    "detail": "MAŽEIKIAI / COPERNICUS TERRAIN"
+  },
+  {
+    "image": "res://assets/loading_art/culture.png",
+    "location": "KULTŪROS CENTRAS",
+    "detail": "MAŽEIKIAI / NAFTININKŲ g."
+  },
+  {
+    "image": "res://assets/loading_art/eifelis.png",
+    "location": "EIFELIS",
+    "detail": "MAŽEIKIAI / SENKELIO g."
+  }
+]

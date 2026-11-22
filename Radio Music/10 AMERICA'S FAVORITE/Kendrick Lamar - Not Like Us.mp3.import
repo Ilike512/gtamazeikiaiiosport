@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dn5uwmarhyryo"
+path="res://.godot/imported/Kendrick Lamar - Not Like Us.mp3-74e52f94e36a3a9d81b527330dc65190.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Kendrick Lamar - Not Like Us.mp3"
+dest_files=["res://.godot/imported/Kendrick Lamar - Not Like Us.mp3-74e52f94e36a3a9d81b527330dc65190.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

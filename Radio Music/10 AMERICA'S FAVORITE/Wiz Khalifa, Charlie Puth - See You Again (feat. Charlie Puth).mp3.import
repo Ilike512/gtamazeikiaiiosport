@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cpfq52a1x63db"
+path="res://.godot/imported/Wiz Khalifa, Charlie Puth - See You Again (feat. Charlie Puth).mp3-59f7dbb580c7a95245b315d6864a9048.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Wiz Khalifa, Charlie Puth - See You Again (feat. Charlie Puth).mp3"
+dest_files=["res://.godot/imported/Wiz Khalifa, Charlie Puth - See You Again (feat. Charlie Puth).mp3-59f7dbb580c7a95245b315d6864a9048.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

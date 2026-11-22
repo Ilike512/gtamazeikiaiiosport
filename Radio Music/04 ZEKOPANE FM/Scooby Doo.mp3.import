@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c20sv5xjp0bwb"
+path="res://.godot/imported/Scooby Doo.mp3-4012d49df9bb4b67899fa2de379b8dbc.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/Scooby Doo.mp3"
+dest_files=["res://.godot/imported/Scooby Doo.mp3-4012d49df9bb4b67899fa2de379b8dbc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

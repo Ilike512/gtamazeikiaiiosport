@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bcp4q6jtxlj74"
+path="res://.godot/imported/41, Kyle Richh, Jenn Carter, TaTa - Bent - slowed + reverb.mp3-c2441f08acce3dfc0b2f6571e399f9e1.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/13 EGOBOOSTER3000 FM/41, Kyle Richh, Jenn Carter, TaTa - Bent - slowed + reverb.mp3"
+dest_files=["res://.godot/imported/41, Kyle Richh, Jenn Carter, TaTa - Bent - slowed + reverb.mp3-c2441f08acce3dfc0b2f6571e399f9e1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

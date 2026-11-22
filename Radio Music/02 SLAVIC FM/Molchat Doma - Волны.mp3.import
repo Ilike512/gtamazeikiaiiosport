@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bsbiuf15qt5g"
+path="res://.godot/imported/Molchat Doma - Волны.mp3-5ccda58d190ef5aa8f9996efa20307ae.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Molchat Doma - Волны.mp3"
+dest_files=["res://.godot/imported/Molchat Doma - Волны.mp3-5ccda58d190ef5aa8f9996efa20307ae.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

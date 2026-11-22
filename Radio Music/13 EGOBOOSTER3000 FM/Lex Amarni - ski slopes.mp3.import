@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b3r0imf1gcrhf"
+path="res://.godot/imported/Lex Amarni - ski slopes.mp3-fec830a835d8f6801a91ad10317bdce0.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/13 EGOBOOSTER3000 FM/Lex Amarni - ski slopes.mp3"
+dest_files=["res://.godot/imported/Lex Amarni - ski slopes.mp3-fec830a835d8f6801a91ad10317bdce0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

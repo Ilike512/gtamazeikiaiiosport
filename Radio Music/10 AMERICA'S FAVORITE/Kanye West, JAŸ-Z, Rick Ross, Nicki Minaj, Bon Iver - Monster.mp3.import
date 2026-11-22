@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bpwtfqvers4uu"
+path="res://.godot/imported/Kanye West, JAŸ-Z, Rick Ross, Nicki Minaj, Bon Iver - Monster.mp3-1b629c142e90fc85d2e50bd7be7c690b.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Kanye West, JAŸ-Z, Rick Ross, Nicki Minaj, Bon Iver - Monster.mp3"
+dest_files=["res://.godot/imported/Kanye West, JAŸ-Z, Rick Ross, Nicki Minaj, Bon Iver - Monster.mp3-1b629c142e90fc85d2e50bd7be7c690b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

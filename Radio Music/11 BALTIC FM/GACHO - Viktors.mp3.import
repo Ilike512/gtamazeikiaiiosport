@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://wbmfkhbe6se1"
+path="res://.godot/imported/GACHO - Viktors.mp3-1c14f57a8f9d978607de0a424b9d9da7.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/GACHO - Viktors.mp3"
+dest_files=["res://.godot/imported/GACHO - Viktors.mp3-1c14f57a8f9d978607de0a424b9d9da7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

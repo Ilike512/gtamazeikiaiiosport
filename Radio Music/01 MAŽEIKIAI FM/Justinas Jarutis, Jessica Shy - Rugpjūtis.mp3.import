@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://qrfsosgcrthq"
+path="res://.godot/imported/Justinas Jarutis, Jessica Shy - Rugpjūtis.mp3-19222f15b09315fe081efb799e600e18.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/01 MAŽEIKIAI FM/Justinas Jarutis, Jessica Shy - Rugpjūtis.mp3"
+dest_files=["res://.godot/imported/Justinas Jarutis, Jessica Shy - Rugpjūtis.mp3-19222f15b09315fe081efb799e600e18.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

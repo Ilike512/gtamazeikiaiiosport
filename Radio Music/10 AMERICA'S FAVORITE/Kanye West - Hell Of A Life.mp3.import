@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://duil6ujprkql0"
+path="res://.godot/imported/Kanye West - Hell Of A Life.mp3-3596e244538d95eb050db4a650b7e65e.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Kanye West - Hell Of A Life.mp3"
+dest_files=["res://.godot/imported/Kanye West - Hell Of A Life.mp3-3596e244538d95eb050db4a650b7e65e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dfikca1jmqa7i"
+path="res://.godot/imported/Conkretus, OG Version - GTA.mp3-5dbaa4591296e7a0df07a1dc518eba8d.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Conkretus, OG Version - GTA.mp3"
+dest_files=["res://.godot/imported/Conkretus, OG Version - GTA.mp3-5dbaa4591296e7a0df07a1dc518eba8d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

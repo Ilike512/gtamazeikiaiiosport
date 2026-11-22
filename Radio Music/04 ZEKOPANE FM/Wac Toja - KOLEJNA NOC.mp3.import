@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b8kflnybvgvv1"
+path="res://.godot/imported/Wac Toja - KOLEJNA NOC.mp3-dc182f1b27909e0fe2a10aaa42caf06e.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/Wac Toja - KOLEJNA NOC.mp3"
+dest_files=["res://.godot/imported/Wac Toja - KOLEJNA NOC.mp3-dc182f1b27909e0fe2a10aaa42caf06e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

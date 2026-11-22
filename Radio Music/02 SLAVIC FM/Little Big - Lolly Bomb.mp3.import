@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d1x6vg323vry3"
+path="res://.godot/imported/Little Big - Lolly Bomb.mp3-425b50fc8a81ad827de148df23d868f5.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Little Big - Lolly Bomb.mp3"
+dest_files=["res://.godot/imported/Little Big - Lolly Bomb.mp3-425b50fc8a81ad827de148df23d868f5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

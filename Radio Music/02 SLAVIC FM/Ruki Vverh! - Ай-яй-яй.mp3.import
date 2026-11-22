@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://do3fs37vbirf"
+path="res://.godot/imported/Ruki Vverh! - Ай-яй-яй.mp3-4400409862f61d2dee7f2f4e3fa82efa.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Ruki Vverh! - Ай-яй-яй.mp3"
+dest_files=["res://.godot/imported/Ruki Vverh! - Ай-яй-яй.mp3-4400409862f61d2dee7f2f4e3fa82efa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

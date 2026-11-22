@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bsb04lm1fukrp"
+path="res://.godot/imported/5MIINUST, Reket - Keti Lõpp.mp3-15121f2347d3d5a00f4477582d3e6d07.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/5MIINUST, Reket - Keti Lõpp.mp3"
+dest_files=["res://.godot/imported/5MIINUST, Reket - Keti Lõpp.mp3-15121f2347d3d5a00f4477582d3e6d07.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

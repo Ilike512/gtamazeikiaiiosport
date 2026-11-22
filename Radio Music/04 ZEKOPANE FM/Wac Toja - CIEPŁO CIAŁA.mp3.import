@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cj3dfabwu0u5u"
+path="res://.godot/imported/Wac Toja - CIEPŁO CIAŁA.mp3-8bc604d7b2d0de288b9a4b121f900490.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/Wac Toja - CIEPŁO CIAŁA.mp3"
+dest_files=["res://.godot/imported/Wac Toja - CIEPŁO CIAŁA.mp3-8bc604d7b2d0de288b9a4b121f900490.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

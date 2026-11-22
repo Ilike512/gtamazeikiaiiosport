@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bkdaee4jiysuj"
+path="res://.godot/imported/Kanye West, PARTYNEXTDOOR - Ghost Town.mp3-c08876869fc4e6dbabf86a62582771d9.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Kanye West, PARTYNEXTDOOR - Ghost Town.mp3"
+dest_files=["res://.godot/imported/Kanye West, PARTYNEXTDOOR - Ghost Town.mp3-c08876869fc4e6dbabf86a62582771d9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

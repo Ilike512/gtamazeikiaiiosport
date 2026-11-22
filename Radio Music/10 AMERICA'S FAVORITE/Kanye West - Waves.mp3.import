@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bw3dmhcah5uwm"
+path="res://.godot/imported/Kanye West - Waves.mp3-33dea121eb0e4e4d0200215ee79c20e0.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Kanye West - Waves.mp3"
+dest_files=["res://.godot/imported/Kanye West - Waves.mp3-33dea121eb0e4e4d0200215ee79c20e0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

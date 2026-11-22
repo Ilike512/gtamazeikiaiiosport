@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://csrkt6qt3jp0g"
+path="res://.godot/imported/ZAPRAVKA - Баблгам.mp3-b4f0e7ada4b582eec6fe32818ba7a5e0.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/ZAPRAVKA - Баблгам.mp3"
+dest_files=["res://.godot/imported/ZAPRAVKA - Баблгам.mp3-b4f0e7ada4b582eec6fe32818ba7a5e0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

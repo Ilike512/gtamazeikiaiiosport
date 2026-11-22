@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bvny2mo36hrkd"
+path="res://.godot/imported/Helmut Lotti - Havah Nagilah - Live.mp3-9de289d1453fd09a63ef640f76ce7455.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Helmut Lotti - Havah Nagilah - Live.mp3"
+dest_files=["res://.godot/imported/Helmut Lotti - Havah Nagilah - Live.mp3-9de289d1453fd09a63ef640f76ce7455.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

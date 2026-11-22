@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://xrli6d6d0g2"
+path="res://.godot/imported/2 Unlimited - No Limit.mp3-cb336e1fa130d90ddf6779fa6e0a4b2f.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/2 Unlimited - No Limit.mp3"
+dest_files=["res://.godot/imported/2 Unlimited - No Limit.mp3-cb336e1fa130d90ddf6779fa6e0a4b2f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

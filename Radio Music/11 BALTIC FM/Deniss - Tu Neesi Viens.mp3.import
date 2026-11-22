@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://x5kh7keoiiel"
+path="res://.godot/imported/Deniss - Tu Neesi Viens.mp3-3acf5ce6097c5e020117ea67c8fa19ec.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Deniss - Tu Neesi Viens.mp3"
+dest_files=["res://.godot/imported/Deniss - Tu Neesi Viens.mp3-3acf5ce6097c5e020117ea67c8fa19ec.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

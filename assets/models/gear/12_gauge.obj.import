@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ch4bfkc2s5sfy"
+path="res://.godot/imported/12_gauge.obj-71d52cbd9e4fcccee8230dfb31aa31aa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/12_gauge.obj-71d52cbd9e4fcccee8230dfb31aa31aa.mesh"]
+
+source_file="res://assets/models/gear/12_gauge.obj"
+dest_files=["res://.godot/imported/12_gauge.obj-71d52cbd9e4fcccee8230dfb31aa31aa.mesh", "res://.godot/imported/12_gauge.obj-71d52cbd9e4fcccee8230dfb31aa31aa.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

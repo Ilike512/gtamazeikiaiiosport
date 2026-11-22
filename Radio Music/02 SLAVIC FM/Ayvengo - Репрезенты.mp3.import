@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://qqi7gacec2f5"
+path="res://.godot/imported/Ayvengo - Репрезенты.mp3-d2f746ad1b8a4dab5aaac2c5763e4d01.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Ayvengo - Репрезенты.mp3"
+dest_files=["res://.godot/imported/Ayvengo - Репрезенты.mp3-d2f746ad1b8a4dab5aaac2c5763e4d01.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

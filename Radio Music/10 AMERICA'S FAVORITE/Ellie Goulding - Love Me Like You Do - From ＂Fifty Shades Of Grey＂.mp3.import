@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://big4r7ry27lhh"
+path="res://.godot/imported/Ellie Goulding - Love Me Like You Do - From ＂Fifty Shades Of Grey＂.mp3-6c5a96ff9c43a942b5c390e05d44a7fc.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Ellie Goulding - Love Me Like You Do - From ＂Fifty Shades Of Grey＂.mp3"
+dest_files=["res://.godot/imported/Ellie Goulding - Love Me Like You Do - From ＂Fifty Shades Of Grey＂.mp3-6c5a96ff9c43a942b5c390e05d44a7fc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

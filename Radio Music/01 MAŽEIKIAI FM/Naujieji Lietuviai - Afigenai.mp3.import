@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://by50mrviqkgrc"
+path="res://.godot/imported/Naujieji Lietuviai - Afigenai.mp3-28e90e461d4d5125a3a22ff6b2d6d3e8.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/01 MAŽEIKIAI FM/Naujieji Lietuviai - Afigenai.mp3"
+dest_files=["res://.godot/imported/Naujieji Lietuviai - Afigenai.mp3-28e90e461d4d5125a3a22ff6b2d6d3e8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

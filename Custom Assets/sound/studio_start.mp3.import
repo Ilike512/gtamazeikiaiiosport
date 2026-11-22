@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://drx5d0eot1ln2"
+path="res://.godot/imported/studio_start.mp3-696bcf7ef16992341a295d25a710a3a9.mp3str"
+
+[deps]
+
+source_file="res://Custom Assets/sound/studio_start.mp3"
+dest_files=["res://.godot/imported/studio_start.mp3-696bcf7ef16992341a295d25a710a3a9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b70wqctdyc7bf"
+path="res://.godot/imported/Kamuza - Gruodis.mp3-712a5a60b4150c283f5399a5ca066b8b.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Kamuza - Gruodis.mp3"
+dest_files=["res://.godot/imported/Kamuza - Gruodis.mp3-712a5a60b4150c283f5399a5ca066b8b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

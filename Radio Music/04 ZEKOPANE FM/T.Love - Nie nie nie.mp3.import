@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b165yvs1kxls1"
+path="res://.godot/imported/T.Love - Nie nie nie.mp3-70c71fb31922206229aafa801606a5df.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/T.Love - Nie nie nie.mp3"
+dest_files=["res://.godot/imported/T.Love - Nie nie nie.mp3-70c71fb31922206229aafa801606a5df.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

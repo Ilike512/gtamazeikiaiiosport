@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bqdp5kdlppr5j"
+path="res://.godot/imported/Different Dimension - Jura／Dura.mp3-8ebc01851168737153c4b642bd3e3798.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Different Dimension - Jura／Dura.mp3"
+dest_files=["res://.godot/imported/Different Dimension - Jura／Dura.mp3-8ebc01851168737153c4b642bd3e3798.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

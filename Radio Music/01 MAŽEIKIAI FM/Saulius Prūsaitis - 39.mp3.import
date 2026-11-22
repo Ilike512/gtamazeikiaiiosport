@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://48ow8o2gv73h"
+path="res://.godot/imported/Saulius Prūsaitis - 39.mp3-c63dc4aa3dd2b2c3453e1aeec79a72ab.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/01 MAŽEIKIAI FM/Saulius Prūsaitis - 39.mp3"
+dest_files=["res://.godot/imported/Saulius Prūsaitis - 39.mp3-c63dc4aa3dd2b2c3453e1aeec79a72ab.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

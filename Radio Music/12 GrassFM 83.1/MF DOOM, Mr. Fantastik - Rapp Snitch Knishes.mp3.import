@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://lyr0synd6ybi"
+path="res://.godot/imported/MF DOOM, Mr. Fantastik - Rapp Snitch Knishes.mp3-a64d42516044eb278b73ab18fbb249f7.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/12 GrassFM 83.1/MF DOOM, Mr. Fantastik - Rapp Snitch Knishes.mp3"
+dest_files=["res://.godot/imported/MF DOOM, Mr. Fantastik - Rapp Snitch Knishes.mp3-a64d42516044eb278b73ab18fbb249f7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

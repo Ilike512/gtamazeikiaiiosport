@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c3qk02k2sy64h"
+path="res://.godot/imported/LUCE - MCCHICKEN.mp3-a2c1f58b97194dea230b898264f27019.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/LUCE - MCCHICKEN.mp3"
+dest_files=["res://.godot/imported/LUCE - MCCHICKEN.mp3-a2c1f58b97194dea230b898264f27019.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

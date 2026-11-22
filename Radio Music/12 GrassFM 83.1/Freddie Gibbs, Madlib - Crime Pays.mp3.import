@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d4boa2262x87c"
+path="res://.godot/imported/Freddie Gibbs, Madlib - Crime Pays.mp3-de1f920e04e2e5ca22faf072b0ab380f.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/12 GrassFM 83.1/Freddie Gibbs, Madlib - Crime Pays.mp3"
+dest_files=["res://.godot/imported/Freddie Gibbs, Madlib - Crime Pays.mp3-de1f920e04e2e5ca22faf072b0ab380f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

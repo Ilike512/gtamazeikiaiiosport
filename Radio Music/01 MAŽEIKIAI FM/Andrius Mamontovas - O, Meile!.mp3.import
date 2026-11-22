@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://2b5g3fsfi32n"
+path="res://.godot/imported/Andrius Mamontovas - O, Meile!.mp3-a443055c387e0cd4d072fab399fba96d.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/01 MAŽEIKIAI FM/Andrius Mamontovas - O, Meile!.mp3"
+dest_files=["res://.godot/imported/Andrius Mamontovas - O, Meile!.mp3-a443055c387e0cd4d072fab399fba96d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bym4nix6hcfbv"
+path="res://.godot/imported/PIZZA - Улыбка.mp3-49c735a5598fa979b5898206c2aae1fe.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/PIZZA - Улыбка.mp3"
+dest_files=["res://.godot/imported/PIZZA - Улыбка.mp3-49c735a5598fa979b5898206c2aae1fe.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

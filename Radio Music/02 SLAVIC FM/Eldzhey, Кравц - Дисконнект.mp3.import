@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://qukwt2i2pr7n"
+path="res://.godot/imported/Eldzhey, Кравц - Дисконнект.mp3-3ffc1afddbfa39b818a736cb569d2e8e.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Eldzhey, Кравц - Дисконнект.mp3"
+dest_files=["res://.godot/imported/Eldzhey, Кравц - Дисконнект.mp3-3ffc1afddbfa39b818a736cb569d2e8e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

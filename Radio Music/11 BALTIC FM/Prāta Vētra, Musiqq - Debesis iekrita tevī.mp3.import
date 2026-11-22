@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://5i8aw4mcs4uk"
+path="res://.godot/imported/Prāta Vētra, Musiqq - Debesis iekrita tevī.mp3-fd777c07ee48ded4f29a647f8b7d7c47.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Prāta Vētra, Musiqq - Debesis iekrita tevī.mp3"
+dest_files=["res://.godot/imported/Prāta Vētra, Musiqq - Debesis iekrita tevī.mp3-fd777c07ee48ded4f29a647f8b7d7c47.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

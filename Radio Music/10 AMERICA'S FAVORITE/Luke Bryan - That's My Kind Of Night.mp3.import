@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cp7kuln23cee0"
+path="res://.godot/imported/Luke Bryan - That's My Kind Of Night.mp3-1fcf680b70a10e65d031e6653a68d648.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Luke Bryan - That's My Kind Of Night.mp3"
+dest_files=["res://.godot/imported/Luke Bryan - That's My Kind Of Night.mp3-1fcf680b70a10e65d031e6653a68d648.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

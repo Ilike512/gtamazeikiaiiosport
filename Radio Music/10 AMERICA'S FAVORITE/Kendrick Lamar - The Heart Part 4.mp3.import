@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://crlcdtdda6vb0"
+path="res://.godot/imported/Kendrick Lamar - The Heart Part 4.mp3-33ac6bd79ad5a35bf3750d46cafbb69c.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Kendrick Lamar - The Heart Part 4.mp3"
+dest_files=["res://.godot/imported/Kendrick Lamar - The Heart Part 4.mp3-33ac6bd79ad5a35bf3750d46cafbb69c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

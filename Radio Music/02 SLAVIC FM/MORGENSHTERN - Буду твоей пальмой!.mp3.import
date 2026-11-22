@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dh71vvsfy1c1n"
+path="res://.godot/imported/MORGENSHTERN - Буду твоей пальмой!.mp3-9386c7f1e83ef49fd0337cd29e2efb32.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/MORGENSHTERN - Буду твоей пальмой!.mp3"
+dest_files=["res://.godot/imported/MORGENSHTERN - Буду твоей пальмой!.mp3-9386c7f1e83ef49fd0337cd29e2efb32.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bcqqdkmmc6l81"
+path="res://.godot/imported/Sebateus - Juuksur.mp3-3a0cad624e741b83a24290fea79f16c2.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Sebateus - Juuksur.mp3"
+dest_files=["res://.godot/imported/Sebateus - Juuksur.mp3-3a0cad624e741b83a24290fea79f16c2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

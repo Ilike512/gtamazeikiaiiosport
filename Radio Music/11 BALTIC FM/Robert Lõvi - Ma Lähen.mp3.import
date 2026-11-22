@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dghmesgynck5y"
+path="res://.godot/imported/Robert Lõvi - Ma Lähen.mp3-3f9ae7f15ff4afa51940006395f517a4.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Robert Lõvi - Ma Lähen.mp3"
+dest_files=["res://.godot/imported/Robert Lõvi - Ma Lähen.mp3-3f9ae7f15ff4afa51940006395f517a4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

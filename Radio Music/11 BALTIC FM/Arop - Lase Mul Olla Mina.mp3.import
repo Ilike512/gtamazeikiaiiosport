@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bbogk8eor8uin"
+path="res://.godot/imported/Arop - Lase Mul Olla Mina.mp3-6e5e03fce66ae1a78aef9db60d69c578.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Arop - Lase Mul Olla Mina.mp3"
+dest_files=["res://.godot/imported/Arop - Lase Mul Olla Mina.mp3-6e5e03fce66ae1a78aef9db60d69c578.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

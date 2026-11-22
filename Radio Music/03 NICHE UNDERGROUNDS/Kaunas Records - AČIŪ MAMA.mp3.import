@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ltt0cf01m3sl"
+path="res://.godot/imported/Kaunas Records - AČIŪ MAMA.mp3-c851630f1902c53b069af96e169a8947.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Kaunas Records - AČIŪ MAMA.mp3"
+dest_files=["res://.godot/imported/Kaunas Records - AČIŪ MAMA.mp3-c851630f1902c53b069af96e169a8947.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

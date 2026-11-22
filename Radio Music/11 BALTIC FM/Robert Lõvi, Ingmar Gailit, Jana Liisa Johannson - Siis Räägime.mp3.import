@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://tn3e4mn8cpeb"
+path="res://.godot/imported/Robert Lõvi, Ingmar Gailit, Jana Liisa Johannson - Siis Räägime.mp3-ecc46163b313a853056002cca4ce2a6b.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Robert Lõvi, Ingmar Gailit, Jana Liisa Johannson - Siis Räägime.mp3"
+dest_files=["res://.godot/imported/Robert Lõvi, Ingmar Gailit, Jana Liisa Johannson - Siis Räägime.mp3-ecc46163b313a853056002cca4ce2a6b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

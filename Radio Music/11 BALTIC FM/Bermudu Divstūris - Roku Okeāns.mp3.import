@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4rq4haemynjl"
+path="res://.godot/imported/Bermudu Divstūris - Roku Okeāns.mp3-28f449fb759cad8689a0bbdff477ddd5.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Bermudu Divstūris - Roku Okeāns.mp3"
+dest_files=["res://.godot/imported/Bermudu Divstūris - Roku Okeāns.mp3-28f449fb759cad8689a0bbdff477ddd5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

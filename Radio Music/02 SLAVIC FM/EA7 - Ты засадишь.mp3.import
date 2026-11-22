@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b16tf7sd4gjjn"
+path="res://.godot/imported/EA7 - Ты засадишь.mp3-5eaa54396a001445d344dedcef8d58be.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/EA7 - Ты засадишь.mp3"
+dest_files=["res://.godot/imported/EA7 - Ты засадишь.mp3-5eaa54396a001445d344dedcef8d58be.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bd4312it64cxr"
+path="res://.godot/imported/Ruki Vverh! - 18 Мне уже.mp3-8f1aa8ed6e5dd29fd833d1fc5f63e68e.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Ruki Vverh! - 18 Мне уже.mp3"
+dest_files=["res://.godot/imported/Ruki Vverh! - 18 Мне уже.mp3-8f1aa8ed6e5dd29fd833d1fc5f63e68e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

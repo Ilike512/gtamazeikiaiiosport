@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdahs0ow4guy0"
+path="res://.godot/imported/Дайте танк (!) - Утро.mp3-131b23cd8f83c1d08d5a3a33a0de2373.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Дайте танк (!) - Утро.mp3"
+dest_files=["res://.godot/imported/Дайте танк (!) - Утро.mp3-131b23cd8f83c1d08d5a3a33a0de2373.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://csqf08mnbjhp4"
+path="res://.godot/imported/LONOWN, riserayss - starly.mp3-1e8005cb0ddc3059636d25eaabcf2c3a.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/13 EGOBOOSTER3000 FM/LONOWN, riserayss - starly.mp3"
+dest_files=["res://.godot/imported/LONOWN, riserayss - starly.mp3-1e8005cb0ddc3059636d25eaabcf2c3a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmiat0qbiv6dw"
+path="res://.godot/imported/Natali - O, Bozhe, kakoj muzhchina!.mp3-88d41ca917c6b4bae4a26a02bc3586c8.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Natali - O, Bozhe, kakoj muzhchina!.mp3"
+dest_files=["res://.godot/imported/Natali - O, Bozhe, kakoj muzhchina!.mp3-88d41ca917c6b4bae4a26a02bc3586c8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

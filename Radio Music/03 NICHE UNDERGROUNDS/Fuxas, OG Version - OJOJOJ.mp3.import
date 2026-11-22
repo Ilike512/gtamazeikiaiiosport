@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://00as5aelqepm"
+path="res://.godot/imported/Fuxas, OG Version - OJOJOJ.mp3-6ef423aed81e53ed0bc3457a281a578d.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Fuxas, OG Version - OJOJOJ.mp3"
+dest_files=["res://.godot/imported/Fuxas, OG Version - OJOJOJ.mp3-6ef423aed81e53ed0bc3457a281a578d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://j81k8vndy7cn"
+path="res://.godot/imported/Mad Money, Mir - Planas.mp3-76cd209beb7f8eda352203983db80ff3.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Mad Money, Mir - Planas.mp3"
+dest_files=["res://.godot/imported/Mad Money, Mir - Planas.mp3-76cd209beb7f8eda352203983db80ff3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://32klvc6d382c"
+path="res://.godot/imported/урал гайсин - священная война.mp3-a704e03a37827f9411c4e685057c74de.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/урал гайсин - священная война.mp3"
+dest_files=["res://.godot/imported/урал гайсин - священная война.mp3-a704e03a37827f9411c4e685057c74de.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

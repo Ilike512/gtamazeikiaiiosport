@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1k521qmuhdos"
+path="res://.godot/imported/Sitoom - Tu Ta Viena.mp3-a9913f17226fec75d636d5abfd200cec.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/01 MAŽEIKIAI FM/Sitoom - Tu Ta Viena.mp3"
+dest_files=["res://.godot/imported/Sitoom - Tu Ta Viena.mp3-a9913f17226fec75d636d5abfd200cec.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

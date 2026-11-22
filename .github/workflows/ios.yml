@@ -1,0 +1,41 @@
+name: Build iOS 15 IPA
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Godot and iOS template
+        shell: bash
+        run: |
+          set -euo pipefail
+          version=4.7.2
+          base="https://github.com/godotengine/godot-builds/releases/download/$version-stable"
+          curl -fsSL --retry 3 "$base/Godot_v$version-stable_macos.universal.zip" -o "$RUNNER_TEMP/godot.zip"
+          ditto -x -k "$RUNNER_TEMP/godot.zip" "$RUNNER_TEMP/editor"
+          curl -fsSL --retry 3 "$base/Godot_v$version-stable_export_templates.tpz" -o "$RUNNER_TEMP/templates.zip"
+          templates="$HOME/Library/Application Support/Godot/export_templates/$version.stable"
+          mkdir -p "$templates"
+          unzip -j "$RUNNER_TEMP/templates.zip" templates/ios.zip -d "$templates"
+          echo "GODOT=$RUNNER_TEMP/editor/Godot.app/Contents/MacOS/Godot" >> "$GITHUB_ENV"
+      - name: Export game and compile IPA
+        shell: bash
+        run: |
+          set -euo pipefail
+          bash tools/stage_ios_audio.sh
+          mkdir -p "$RUNNER_TEMP/ios-export"
+          "$GODOT" --headless --editor --import
+          "$GODOT" --headless --export-release 'iOS 15' "$RUNNER_TEMP/ios-export/GTA_MAZEIKIAI.ipa"
+          bash tools/build_ios_ipa.sh "$RUNNER_TEMP/ios-export" "$RUNNER_TEMP/GTA_MAZEIKIAI.ipa"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: GTA-Mazeikiai-iOS15-unsigned
+          path: ${{ runner.temp }}/GTA_MAZEIKIAI.ipa
+          if-no-files-found: error
+          compression-level: 0

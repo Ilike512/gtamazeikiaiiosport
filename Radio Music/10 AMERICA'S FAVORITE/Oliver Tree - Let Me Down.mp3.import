@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ce84ohhvcqajt"
+path="res://.godot/imported/Oliver Tree - Let Me Down.mp3-6f5f8da4ef24d81200e2c6165b7c338a.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Oliver Tree - Let Me Down.mp3"
+dest_files=["res://.godot/imported/Oliver Tree - Let Me Down.mp3-6f5f8da4ef24d81200e2c6165b7c338a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

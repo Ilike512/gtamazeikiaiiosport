@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c1b8ol4rxmixf"
+path="res://.godot/imported/Kendrick Lamar, Dom Kennedy, Murs - She Needs Me (Remix).mp3-6dc49b1ec91810010f9f76e3f2fd1799.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/12 GrassFM 83.1/Kendrick Lamar, Dom Kennedy, Murs - She Needs Me (Remix).mp3"
+dest_files=["res://.godot/imported/Kendrick Lamar, Dom Kennedy, Murs - She Needs Me (Remix).mp3-6dc49b1ec91810010f9f76e3f2fd1799.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://k3k1sb1axvbm"
+path="res://.godot/imported/3SUNC, VARNAS - MAMA MANE RODYS PER FARUS.mp3-8664e8bc1c53cad6d218b10dbf99f2a7.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/3SUNC, VARNAS - MAMA MANE RODYS PER FARUS.mp3"
+dest_files=["res://.godot/imported/3SUNC, VARNAS - MAMA MANE RODYS PER FARUS.mp3-8664e8bc1c53cad6d218b10dbf99f2a7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bp81t8r0lpops"
+path="res://.godot/imported/Adomas Vyšniauskas - Jeigu Žinai Ko Tu Nori.mp3-d2b6d154563f07ea5db3a1b6bf9beab2.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/01 MAŽEIKIAI FM/Adomas Vyšniauskas - Jeigu Žinai Ko Tu Nori.mp3"
+dest_files=["res://.godot/imported/Adomas Vyšniauskas - Jeigu Žinai Ko Tu Nori.mp3-d2b6d154563f07ea5db3a1b6bf9beab2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://drhatxeuj8w5n"
+path="res://.godot/imported/Little Big - Faradenza.mp3-945ba76c6b412f8d44fbe2967771dc74.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Little Big - Faradenza.mp3"
+dest_files=["res://.godot/imported/Little Big - Faradenza.mp3-945ba76c6b412f8d44fbe2967771dc74.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

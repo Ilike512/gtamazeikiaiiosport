@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dyylfw0f5dkv3"
+path="res://.godot/imported/MakSim - Трудный возраст.mp3-bf49f91ad576451ea89420d2d1379640.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/MakSim - Трудный возраст.mp3"
+dest_files=["res://.godot/imported/MakSim - Трудный возраст.mp3-bf49f91ad576451ea89420d2d1379640.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

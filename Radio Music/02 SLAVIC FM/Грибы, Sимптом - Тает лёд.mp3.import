@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cqlvr56sm3wci"
+path="res://.godot/imported/Грибы, Sимптом - Тает лёд.mp3-30db2b1af808947763d7f36ef4d1d498.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Грибы, Sимптом - Тает лёд.mp3"
+dest_files=["res://.godot/imported/Грибы, Sимптом - Тает лёд.mp3-30db2b1af808947763d7f36ef4d1d498.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

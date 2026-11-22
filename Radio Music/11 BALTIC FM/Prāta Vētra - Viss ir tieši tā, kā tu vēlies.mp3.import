@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://h35ua20rob3x"
+path="res://.godot/imported/Prāta Vētra - Viss ir tieši tā, kā tu vēlies.mp3-49ff993ce1aad8f1f5da8d20e36b5e7f.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Prāta Vētra - Viss ir tieši tā, kā tu vēlies.mp3"
+dest_files=["res://.godot/imported/Prāta Vētra - Viss ir tieši tā, kā tu vēlies.mp3-49ff993ce1aad8f1f5da8d20e36b5e7f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

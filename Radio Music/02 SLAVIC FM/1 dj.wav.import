@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://u3od5ijhmj0h"
+path="res://.godot/imported/1 dj.wav-d713d24e2b308f4861f8b87e869604ef.sample"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/1 dj.wav"
+dest_files=["res://.godot/imported/1 dj.wav-d713d24e2b308f4861f8b87e869604ef.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

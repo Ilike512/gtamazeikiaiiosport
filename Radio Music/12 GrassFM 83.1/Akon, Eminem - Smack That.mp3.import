@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1umsj4igg7pi"
+path="res://.godot/imported/Akon, Eminem - Smack That.mp3-804a6c5c2948b0e4ff784ad4827fb592.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/12 GrassFM 83.1/Akon, Eminem - Smack That.mp3"
+dest_files=["res://.godot/imported/Akon, Eminem - Smack That.mp3-804a6c5c2948b0e4ff784ad4827fb592.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

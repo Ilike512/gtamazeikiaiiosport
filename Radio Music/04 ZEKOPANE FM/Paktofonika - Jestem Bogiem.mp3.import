@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ce0llpcqa3i32"
+path="res://.godot/imported/Paktofonika - Jestem Bogiem.mp3-093b2af48ea3b26c2716d3cc5e5513f3.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/Paktofonika - Jestem Bogiem.mp3"
+dest_files=["res://.godot/imported/Paktofonika - Jestem Bogiem.mp3-093b2af48ea3b26c2716d3cc5e5513f3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

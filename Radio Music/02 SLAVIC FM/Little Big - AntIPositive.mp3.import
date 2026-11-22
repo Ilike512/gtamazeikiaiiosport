@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bv5er52e22ar1"
+path="res://.godot/imported/Little Big - AntIPositive.mp3-305b88e170dd79de294b9b1040be5c0e.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Little Big - AntIPositive.mp3"
+dest_files=["res://.godot/imported/Little Big - AntIPositive.mp3-305b88e170dd79de294b9b1040be5c0e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ceh5moe5j1vq8"
+path="res://.godot/imported/Lil Kubio - Kelyje Vilnius - Kaunas.mp3-24b1e56c1325619fe488597bb393b195.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Lil Kubio - Kelyje Vilnius - Kaunas.mp3"
+dest_files=["res://.godot/imported/Lil Kubio - Kelyje Vilnius - Kaunas.mp3-24b1e56c1325619fe488597bb393b195.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

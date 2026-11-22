@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djhgvuqutl37p"
+path="res://.godot/imported/Little Big - Skibidi.mp3-17b58d4abc76b2a019cb3ce92f6055d5.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Little Big - Skibidi.mp3"
+dest_files=["res://.godot/imported/Little Big - Skibidi.mp3-17b58d4abc76b2a019cb3ce92f6055d5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

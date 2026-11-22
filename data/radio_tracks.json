@@ -1,0 +1,42 @@
+[
+  {
+    "id": "thick_of_it",
+    "station": "americas_favorite",
+    "artist": "KSI ft. Trippie Redd",
+    "title": "Thick Of It",
+    "duration": 0,
+    "audio": "thick_of_it.ogg"
+  },
+  {
+    "id": "never_gonna_give_you_up",
+    "station": "worldwidepop",
+    "artist": "Rick Astley",
+    "title": "Never Gonna Give You Up",
+    "duration": 0,
+    "audio": "never_gonna_give_you_up.ogg"
+  },
+  {
+    "id": "atsimenu_dienas",
+    "station": "niche_undergrounds",
+    "artist": "Different Dimension",
+    "title": "Atsimenu Dienas",
+    "duration": 0,
+    "audio": "atsimenu_dienas.ogg"
+  },
+  {
+    "id": "jura_dura",
+    "station": "niche_undergrounds",
+    "artist": "Different Dimension",
+    "title": "JURA/DURA",
+    "duration": 0,
+    "audio": "jura_dura.ogg"
+  },
+  {
+    "id": "ski_slopes",
+    "station": "egobooster3000_fm",
+    "artist": "Lex Amarni",
+    "title": "ski slopes",
+    "duration": 0,
+    "audio": "ski_slopes.ogg"
+  }
+]

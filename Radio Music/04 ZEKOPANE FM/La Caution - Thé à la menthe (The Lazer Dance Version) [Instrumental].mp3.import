@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ckhy8k4wh4gy7"
+path="res://.godot/imported/La Caution - Thé à la menthe (The Lazer Dance Version) [Instrumental].mp3-deb5749e143651feb774eae9fa625e4d.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/La Caution - Thé à la menthe (The Lazer Dance Version) [Instrumental].mp3"
+dest_files=["res://.godot/imported/La Caution - Thé à la menthe (The Lazer Dance Version) [Instrumental].mp3-deb5749e143651feb774eae9fa625e4d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

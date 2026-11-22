@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bn2oy5dx0hvi4"
+path="res://.godot/imported/Tyler, The Creator, A$AP Rocky - Who Dat Boy (feat. A$AP Rocky).mp3-6e6d41d7a6fa9aa3c59074215851be9a.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Tyler, The Creator, A$AP Rocky - Who Dat Boy (feat. A$AP Rocky).mp3"
+dest_files=["res://.godot/imported/Tyler, The Creator, A$AP Rocky - Who Dat Boy (feat. A$AP Rocky).mp3-6e6d41d7a6fa9aa3c59074215851be9a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

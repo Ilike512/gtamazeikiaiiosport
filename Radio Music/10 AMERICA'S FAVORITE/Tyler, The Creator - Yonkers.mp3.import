@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ducgf3h8djoar"
+path="res://.godot/imported/Tyler, The Creator - Yonkers.mp3-56d9d23a29d031be42bc12887987a01a.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Tyler, The Creator - Yonkers.mp3"
+dest_files=["res://.godot/imported/Tyler, The Creator - Yonkers.mp3-56d9d23a29d031be42bc12887987a01a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

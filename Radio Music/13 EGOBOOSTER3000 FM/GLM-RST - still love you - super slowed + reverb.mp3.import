@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dlwwlt3p77hvh"
+path="res://.godot/imported/GLM-RST - still love you - super slowed + reverb.mp3-71ba16d6e0cbde72370c4986111830f4.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/13 EGOBOOSTER3000 FM/GLM-RST - still love you - super slowed + reverb.mp3"
+dest_files=["res://.godot/imported/GLM-RST - still love you - super slowed + reverb.mp3-71ba16d6e0cbde72370c4986111830f4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

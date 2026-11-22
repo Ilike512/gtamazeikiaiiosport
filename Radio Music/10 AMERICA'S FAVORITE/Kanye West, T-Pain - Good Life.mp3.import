@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://brvvn2riw77m"
+path="res://.godot/imported/Kanye West, T-Pain - Good Life.mp3-42f1d10b1e4ae6f910c612746d265564.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Kanye West, T-Pain - Good Life.mp3"
+dest_files=["res://.godot/imported/Kanye West, T-Pain - Good Life.mp3-42f1d10b1e4ae6f910c612746d265564.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

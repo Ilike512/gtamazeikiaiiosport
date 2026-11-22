@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dp54mh4oi4qah"
+path="res://.godot/imported/ДЕТИ RAVE - Pepsi.mp3-70c32918fc76f6c7bee40d34039fa34d.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/ДЕТИ RAVE - Pepsi.mp3"
+dest_files=["res://.godot/imported/ДЕТИ RAVE - Pepsi.mp3-70c32918fc76f6c7bee40d34039fa34d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

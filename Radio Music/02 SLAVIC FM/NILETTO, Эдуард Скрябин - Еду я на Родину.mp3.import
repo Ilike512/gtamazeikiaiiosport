@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://be4tmj6mtelnc"
+path="res://.godot/imported/NILETTO, Эдуард Скрябин - Еду я на Родину.mp3-65b597f26821ef5dec5c3e0db48abb03.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/NILETTO, Эдуард Скрябин - Еду я на Родину.mp3"
+dest_files=["res://.godot/imported/NILETTO, Эдуард Скрябин - Еду я на Родину.mp3-65b597f26821ef5dec5c3e0db48abb03.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

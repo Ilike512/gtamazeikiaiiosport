@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dt8ygsv1kgdc3"
+path="res://.godot/imported/Molchat Doma - Судно (Борис Рыжий).mp3-566cca3c25e79380d4aa2023872cc081.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/Molchat Doma - Судно (Борис Рыжий).mp3"
+dest_files=["res://.godot/imported/Molchat Doma - Судно (Борис Рыжий).mp3-566cca3c25e79380d4aa2023872cc081.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cs8kqgw8hhqvc"
+path="res://.godot/imported/Lady Pank - Mniej Niż Zero.mp3-927b2bbc074df8d5a7f7882a6ad6ef52.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/Lady Pank - Mniej Niż Zero.mp3"
+dest_files=["res://.godot/imported/Lady Pank - Mniej Niż Zero.mp3-927b2bbc074df8d5a7f7882a6ad6ef52.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

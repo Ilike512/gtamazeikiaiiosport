@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://eomqgamk86w7"
+path="res://.godot/imported/Kendrick Lamar, Zacari - LOVE. FEAT. ZACARI.mp3-08c2e76955f74a1be46920d4c2131b3c.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Kendrick Lamar, Zacari - LOVE. FEAT. ZACARI.mp3"
+dest_files=["res://.godot/imported/Kendrick Lamar, Zacari - LOVE. FEAT. ZACARI.mp3-08c2e76955f74a1be46920d4c2131b3c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

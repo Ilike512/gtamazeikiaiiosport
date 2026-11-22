@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ch8envtyshqct"
+path="res://.godot/imported/Hazel - I Love Poland - Radio Edit.mp3-82663738e11ef7189365f6900721fa68.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/Hazel - I Love Poland - Radio Edit.mp3"
+dest_files=["res://.godot/imported/Hazel - I Love Poland - Radio Edit.mp3-82663738e11ef7189365f6900721fa68.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

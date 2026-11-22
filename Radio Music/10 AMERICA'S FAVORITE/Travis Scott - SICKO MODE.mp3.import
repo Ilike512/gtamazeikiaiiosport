@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://clfo2wije1i4f"
+path="res://.godot/imported/Travis Scott - SICKO MODE.mp3-9100bd3285da73b3d411316bc680f350.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Travis Scott - SICKO MODE.mp3"
+dest_files=["res://.godot/imported/Travis Scott - SICKO MODE.mp3-9100bd3285da73b3d411316bc680f350.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

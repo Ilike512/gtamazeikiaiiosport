@@ -1,0 +1,30 @@
+[
+  {
+    "id": "main",
+    "name": "Henry Stickmin",
+    "initials": "HS",
+    "outfit": "#b65844",
+    "model": "res://assets/models/supplied/henry-stickmin/henry.fbx",
+    "fallback_model": "res://assets/models/characters/main.glb",
+    "walk_speed": 5.1,
+    "run_speed": 8.7,
+    "model_yaw_degrees": 180,
+    "model_height": 1.76,
+    "model_floor_offset": -0.085,
+    "procedural_motion": true,
+    "tint_model": false
+  },
+  {
+    "id": "joris",
+    "name": "Blitzo",
+    "initials": "BL",
+    "outfit": "#6c77ab",
+    "model": "res://assets/models/supplied/blitzo-character-design/blitzo_rigged.scn",
+    "fallback_model": "res://assets/models/characters/joris.glb",
+    "walk_speed": 5.2,
+    "run_speed": 8.5,
+    "model_yaw_degrees": 0,
+    "procedural_motion": true,
+    "tint_model": false
+  }
+]

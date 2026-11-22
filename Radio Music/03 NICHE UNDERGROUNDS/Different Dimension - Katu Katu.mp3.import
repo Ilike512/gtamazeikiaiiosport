@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bs73exphlmm53"
+path="res://.godot/imported/Different Dimension - Katu Katu.mp3-caf6da99226debed4e74ce217584f9f6.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Different Dimension - Katu Katu.mp3"
+dest_files=["res://.godot/imported/Different Dimension - Katu Katu.mp3-caf6da99226debed4e74ce217584f9f6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://m6e2cga4it78"
+path="res://.godot/imported/F4ST - better luck next time.mp3-7edffc136a34fca078f736461177a172.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/12 GrassFM 83.1/F4ST - better luck next time.mp3"
+dest_files=["res://.godot/imported/F4ST - better luck next time.mp3-7edffc136a34fca078f736461177a172.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

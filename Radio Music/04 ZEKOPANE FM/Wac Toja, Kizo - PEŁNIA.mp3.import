@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b2b2cse36oe45"
+path="res://.godot/imported/Wac Toja, Kizo - PEŁNIA.mp3-d6cae5188dccaea42927f8658285f701.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/Wac Toja, Kizo - PEŁNIA.mp3"
+dest_files=["res://.godot/imported/Wac Toja, Kizo - PEŁNIA.mp3-d6cae5188dccaea42927f8658285f701.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

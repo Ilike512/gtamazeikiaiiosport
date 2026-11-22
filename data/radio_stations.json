@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mazeikiai_fm",
+    "name": "MAŽEIKIAI FM",
+    "genre": "Lithuanian pop, rap, parties and nostalgia",
+    "label": "ŽFM",
+    "color": "#ffc87a",
+    "icon": "res://assets/station_icons/MAZEIKIAI FM.jpg",
+    "gain_db": 0,
+    "folder": "01 MAŽEIKIAI FM"
+  },
+  {
+    "id": "slavic_fm",
+    "name": "SLAVIC FM",
+    "genre": "Slavic pop, rap and electronics",
+    "label": "SLV",
+    "color": "#ed8f8c",
+    "icon": "res://assets/station_icons/SALVIC FM.jpg",
+    "gain_db": 0,
+    "folder": "02 SLAVIC FM"
+  },
+  {
+    "id": "niche_undergrounds",
+    "name": "NICHE UNDERGROUNDS",
+    "genre": "Lithuanian underground rap and niche records",
+    "label": "NU",
+    "color": "#c5a9ed",
+    "icon": "res://assets/station_icons/NICHE UNDERGROUNDS.png",
+    "gain_db": 0,
+    "folder": "03 NICHE UNDERGROUNDS"
+  },
+  {
+    "id": "zekopane_fm",
+    "name": "ZEKOPANE FM",
+    "genre": "Polish rap, disco polo and classics",
+    "label": "ZKP",
+    "color": "#f4ac71",
+    "icon": "res://assets/station_icons/ZEKOPANE FM.jpg",
+    "gain_db": 0,
+    "folder": "04 ZEKOPANE FM"
+  },
+  {
+    "id": "worldwidepop",
+    "name": "WorldWidePop",
+    "genre": "International pop, dance and throwbacks",
+    "label": "WWP",
+    "color": "#81d7ea",
+    "icon": "res://assets/station_icons/WORLDWIDEPOP.png",
+    "gain_db": 0,
+    "folder": "05 WorldWidePop"
+  },
+  {
+    "id": "adidas_fm",
+    "name": "ADIDAS FM",
+    "genre": "Hardbass and high-energy electronics",
+    "label": "AIF",
+    "color": "#f3e588",
+    "icon": "res://assets/station_icons/ADIDAS FM.jpg",
+    "gain_db": 0,
+    "folder": "06 ADIDAS FM"
+  },
+  {
+    "id": "eurovision_fm",
+    "name": "EUROVISION FM",
+    "genre": "Eurovision songs and related artists",
+    "label": "ESC",
+    "color": "#eb91c8",
+    "icon": "res://assets/station_icons/EUROVISION FM.png",
+    "gain_db": 0,
+    "folder": "07 EUROVISION FM"
+  },
+  {
+    "id": "anahalt_rock_radio",
+    "name": "ANAHALT ROCK RADIO",
+    "genre": "Rock, industrial, alternative and metal",
+    "label": "ARR",
+    "color": "#f1a0a0",
+    "icon": "res://assets/station_icons/ANNHALT ROCK.png",
+    "gain_db": 0,
+    "folder": "08 ANAHALT ROCK RADIO"
+  },
+  {
+    "id": "relax_fm",
+    "name": "RELAX FM",
+    "genre": "Softer Lithuanian pop and nostalgia",
+    "label": "RLX",
+    "color": "#aedbe0",
+    "icon": "res://assets/station_icons/RELAX FM.jpg",
+    "gain_db": 0,
+    "folder": "09 RELAX FM"
+  },
+  {
+    "id": "americas_favorite",
+    "name": "AMERICA'S FAVORITE",
+    "genre": "American hip-hop, rap and throwbacks",
+    "label": "AF",
+    "color": "#ffb17e",
+    "icon": "res://assets/station_icons/americas_favorite.png",
+    "gain_db": 0,
+    "folder": "10 AMERICA'S FAVORITE"
+  },
+  {
+    "id": "baltic_fm",
+    "name": "BALTIC FM",
+    "genre": "Estonian and Latvian music",
+    "label": "BLT",
+    "color": "#93c7f5",
+    "icon": "res://assets/station_icons/BALTIC FM.png",
+    "gain_db": 0,
+    "folder": "11 BALTIC FM"
+  },
+  {
+    "id": "grassfm_831",
+    "name": "GrassFM 83.1",
+    "genre": "Slow English-language rap and mellow hip-hop",
+    "label": "83.1",
+    "color": "#a7d49a",
+    "icon": "res://assets/station_icons/GRASS FM.png",
+    "gain_db": 0,
+    "folder": "12 GrassFM 83.1"
+  },
+  {
+    "id": "egobooster3000_fm",
+    "name": "EGOBOOSTER3000 FM",
+    "genre": "Funk, phonk, fast underground rap and experimental music",
+    "label": "E3K",
+    "color": "#ff9fc2",
+    "icon": "res://assets/station_icons/EGOBOOSTER.png",
+    "gain_db": 0,
+    "folder": "13 EGOBOOSTER3000 FM"
+  },
+  {
+    "id": "matts_interviews",
+    "name": "MATT'S INTERVIEWS",
+    "genre": "Interviews and spoken-word recordings",
+    "label": "MI",
+    "color": "#ffc58c",
+    "icon": "",
+    "gain_db": 0,
+    "folder": "14 MATT'S INTERVIEWS"
+  }
+]

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cpbjqvm5j3isb"
+path="res://.godot/imported/Scooter - Last Minute.mp3-d50e6d150f91eb22c672caf29fbb5cd6.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Scooter - Last Minute.mp3"
+dest_files=["res://.godot/imported/Scooter - Last Minute.mp3-d50e6d150f91eb22c672caf29fbb5cd6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

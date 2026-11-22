@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://it3ymqj57ra1"
+path="res://.godot/imported/Kaunas Records, EXPLODAS - ATSISTOJU.mp3-ecd1c4cf64e43e5f759433b46488bf05.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Kaunas Records, EXPLODAS - ATSISTOJU.mp3"
+dest_files=["res://.godot/imported/Kaunas Records, EXPLODAS - ATSISTOJU.mp3-ecd1c4cf64e43e5f759433b46488bf05.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://rmix0ux6c71m"
+path="res://.godot/imported/OG Version - S Klasė.mp3-8fe5176775e781fabccebac0db8a480c.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/OG Version - S Klasė.mp3"
+dest_files=["res://.godot/imported/OG Version - S Klasė.mp3-8fe5176775e781fabccebac0db8a480c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

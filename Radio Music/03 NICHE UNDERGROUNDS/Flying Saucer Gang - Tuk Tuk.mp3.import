@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://7ghhih8ybvfa"
+path="res://.godot/imported/Flying Saucer Gang - Tuk Tuk.mp3-472cf9b4a39da2d907dce08d45ec5096.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/Flying Saucer Gang - Tuk Tuk.mp3"
+dest_files=["res://.godot/imported/Flying Saucer Gang - Tuk Tuk.mp3-472cf9b4a39da2d907dce08d45ec5096.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

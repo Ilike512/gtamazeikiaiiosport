@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bilvx4mqbh3ma"
+path="res://.godot/imported/Deniss, Sudrabu Sirds - KARUSELĪ.mp3-a03c24ba14e98d79e5a80c36b2d8ae49.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/11 BALTIC FM/Deniss, Sudrabu Sirds - KARUSELĪ.mp3"
+dest_files=["res://.godot/imported/Deniss, Sudrabu Sirds - KARUSELĪ.mp3-a03c24ba14e98d79e5a80c36b2d8ae49.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

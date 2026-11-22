@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c7s6t2lecqqfa"
+path="res://.godot/imported/Wac Toja - 5G Zioła (Polska Niegotowa).mp3-50583d807bb959474370908e1d78b278.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/04 ZEKOPANE FM/Wac Toja - 5G Zioła (Polska Niegotowa).mp3"
+dest_files=["res://.godot/imported/Wac Toja - 5G Zioła (Polska Niegotowa).mp3-50583d807bb959474370908e1d78b278.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

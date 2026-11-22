@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cagxtkp55cmkk"
+path="res://.godot/imported/Gal Sinvani - מחרוזת אל תירא ישראל.mp3-ce1d75e1aa859f29fde01fcebd3e26c5.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/Gal Sinvani - מחרוזת אל תירא ישראל.mp3"
+dest_files=["res://.godot/imported/Gal Sinvani - מחרוזת אל תירא ישראל.mp3-ce1d75e1aa859f29fde01fcebd3e26c5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

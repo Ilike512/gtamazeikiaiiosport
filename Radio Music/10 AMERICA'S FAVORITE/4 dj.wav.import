@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c26kwa31xg3rh"
+path="res://.godot/imported/4 dj.wav-d898a87bfa891a9880b673d81d260872.sample"
+
+[deps]
+
+source_file="res://Radio Music/10 AMERICA'S FAVORITE/4 dj.wav"
+dest_files=["res://.godot/imported/4 dj.wav-d898a87bfa891a9880b673d81d260872.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

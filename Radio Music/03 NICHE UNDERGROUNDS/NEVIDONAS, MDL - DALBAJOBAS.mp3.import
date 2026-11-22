@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://r86hw5x0hioe"
+path="res://.godot/imported/NEVIDONAS, MDL - DALBAJOBAS.mp3-807404a606e4f0afa62653f3c2aa84fe.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/03 NICHE UNDERGROUNDS/NEVIDONAS, MDL - DALBAJOBAS.mp3"
+dest_files=["res://.godot/imported/NEVIDONAS, MDL - DALBAJOBAS.mp3-807404a606e4f0afa62653f3c2aa84fe.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

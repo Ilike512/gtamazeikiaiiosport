@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://7itf3lquxoea"
+path="res://.godot/imported/T1ONE - Девочка Оля (Mike Key Remix).mp3-ee7fba3a775cefcaffa9c9e7bf5838a1.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/02 SLAVIC FM/T1ONE - Девочка Оля (Mike Key Remix).mp3"
+dest_files=["res://.godot/imported/T1ONE - Девочка Оля (Mike Key Remix).mp3-ee7fba3a775cefcaffa9c9e7bf5838a1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

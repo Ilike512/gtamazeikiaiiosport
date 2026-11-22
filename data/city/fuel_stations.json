@@ -1,0 +1,15 @@
+[
+  {"id":"orlen_zemaitijos","name":"ORLEN","address":"Žemaitijos g. 42","point":[648.2,492.3],"kiosk":[641.5,504.3],"shop":[22.0,8.0],"canopy":[18.0,11.0],"style":"orlen","pumps":3,"replace":[496318893,496318894]},
+  {"id":"orlen_skuodo","name":"ORLEN","address":"Skuodo g. 14","point":[-1276.4,-855.4],"kiosk":[-1300.0,-879.0],"shop":[22.0,8.6],"canopy":[28.0,15.0],"style":"orlen","pumps":4,"replace":[199793871,991559602]},
+  {"id":"baltic_dauksos","name":"BALTIC PETROLEUM","address":"M. Daukšos g. 17","point":[1166.6,172.1],"kiosk":[1181.2,176.9],"shop":[10.5,6.5],"canopy":[16.0,9.0],"style":"baltic","pumps":2,"replace":[456071147]},
+  {"id":"circle_k","name":"CIRCLE K","address":"Žemaitijos g. 57","point":[819.3,480.9],"kiosk":[829.0,461.5],"shop":[27.0,12.5],"canopy":[23.0,8.4],"style":"circle","pumps":4,"replace":[604034504,991559598]},
+  {"id":"eniris_laisuvos","name":"ENIRIS","address":"Laižuvos g. 82D","point":[2238.0,-810.0],"kiosk":[2235.0,-824.0],"shop":[8.0,5.5],"canopy":[12.0,7.0],"style":"eniris","pumps":2,"replace":[]},
+  {"id":"eu_vieksniu","name":"EU VERSLAS","address":"Viekšnių g. 24","point":[1744.6,264.1],"kiosk":[1757.2,270.1],"shop":[6.8,5.4],"canopy":[16.0,7.0],"style":"euro","pumps":2,"replace":[456074074]},
+  {"id":"naftos_algirdo","name":"NAFTOS DUJOS","address":"Algirdo g. 42","point":[-873.0,-1369.0],"kiosk":[-885.0,-1369.0],"shop":[6.3,5.0],"canopy":[9.0,6.0],"style":"lpg","pumps":1,"replace":[]},
+  {"id":"naftos_dauksos","name":"NAFTOS DUJOS","address":"M. Daukšos g. 29 / Žemaitijos g. 69","point":[1286.0,674.0],"kiosk":[1298.0,671.0],"shop":[6.3,5.0],"canopy":[9.0,6.0],"style":"lpg","pumps":1,"replace":[]},
+  {"id":"neste_dauksos","name":"NESTE","address":"M. Daukšos g. 29","point":[1101.4,597.4],"kiosk":[1114.5,586.4],"shop":[6.0,5.0],"canopy":[14.0,7.5],"style":"neste","pumps":2,"replace":[496318890]},
+  {"id":"tripletas","name":"TRIPLETAS","address":"Sedos g. 16","point":[634.2,148.7],"kiosk":[647.6,146.6],"shop":[8.0,6.2],"canopy":[13.5,7.0],"style":"tripletas","pumps":2,"replace":[206358044]},
+  {"id":"viada_zemaitijos","name":"VIADA","address":"Žemaitijos g. 75","point":[1766.1,705.1],"kiosk":[1769.5,691.2],"shop":[22.0,8.0],"canopy":[16.0,7.5],"style":"viada","pumps":3,"replace":[542147707,607580321]},
+  {"id":"viada_montuotoju","name":"VIADA","address":"Montuotojų g. 2A","point":[-1806.5,-1000.9],"kiosk":[-1822.7,-1034.4],"shop":[20.0,11.0],"canopy":[25.0,13.5],"style":"viada","pumps":4,"replace":[452304922,452305931]}
+]
+

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b06p66dtl1p4p"
+path="res://.godot/imported/Šventinis bankuchenas, DJ Karka - Baudų Bauda - Dj Karka Remix.mp3-7244acb046d25c89f7f84e94683415ec.mp3str"
+
+[deps]
+
+source_file="res://Radio Music/01 MAŽEIKIAI FM/Šventinis bankuchenas, DJ Karka - Baudų Bauda - Dj Karka Remix.mp3"
+dest_files=["res://.godot/imported/Šventinis bankuchenas, DJ Karka - Baudų Bauda - Dj Karka Remix.mp3-7244acb046d25c89f7f84e94683415ec.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
